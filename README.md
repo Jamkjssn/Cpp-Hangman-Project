@@ -31,8 +31,8 @@ To recreate the development environment, you need the following software and/or 
 
 I found these websites useful in developing this software:
 
-* cplusplus.com
-* cppreference.com
+* Official C++ Website: [cplusplus.com](https://cplusplus.com/doc/tutorial)
+* C++ References website: [cppreference.com](https://en.cppreference.com/w/)
 
 ## Future Work
 
